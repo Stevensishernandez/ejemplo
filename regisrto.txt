@@ -1,2 +1,9 @@
 este archivo es para programar mi registro
 
+quisimos añadir una funcionalidad de añadir fotos
+pero no nos funciono
+le dimos control+c y control+v a codigo de google y no jalo
+le dimos despues control+z y nos pasamos 
+ya no supimos donde estavamos y todo esta mal 
+ya no compilo
+
